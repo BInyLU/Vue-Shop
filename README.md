@@ -21,11 +21,6 @@ npm run serve
 
 ---
 
-![登录](https://i1.fuimg.com/711726/1fe76aba79dc6ac3.png)
-
-![welcome页面](https://i1.fuimg.com/711726/0746513933bbf916.png)
-
-![收起侧边栏](https://i1.fuimg.com/711726/62719e0654133c67.png)
 
 ### 2.用户管理
 - [x] 用户列表
@@ -35,10 +30,7 @@ npm run serve
 - [x] 删除用户
 - [x] 分配角色
 
----
-![用户列表](https://i1.fuimg.com/711726/7e891d33d8364716.png)
 
-![添加用户](https://i1.fuimg.com/711726/4b7607d15c5c099d.png)
 
 ### 3.权限管理
 - [x] 角色列表
@@ -47,12 +39,7 @@ npm run serve
 - [x] 权限分配
 - [x] 权限列表
 
----
-![角色列表](https://i1.fuimg.com/711726/f8b9b072102e37e8.png)
 
-![分配权限](https://i1.fuimg.com/711726/9ca8488aee60dfab.png)
-
-![权限列表](https://i1.fuimg.com/711726/59cc964e32c8b2fd.png)
 
 ### 4.商品管理
 - [x] 商品列表
@@ -67,30 +54,19 @@ npm run serve
 - [ ] 删除分类
 
 
----
-![商品列表](https://i1.fuimg.com/711726/46fa689dfe537843.png)
 
-![添加商品](https://i1.fuimg.com/711726/58d357a91b86f28f.png)
-
-![分类参数](https://i1.fuimg.com/711726/b3c5276435c6ce2d.png)
-
-![商品分类](https://i1.fuimg.com/711726/b717a442d69bf18d.png)
 
 ### 5.订单管理
 - [x] 订单列表
 - [x] 地址修改
 - [x] 物流进度
 
----
-![订单列表](https://i1.fuimg.com/711726/17c622da1ccb3a28.png)
 
-![物流进度](https://i1.fuimg.com/711726/b8f3feaeeb92b73e.png)
 
 ### 6.数据统计
 - [x] 数据报表
 
----
-![数据统计](https://i1.fuimg.com/711726/9abab6d201cfa144.png)
+
 
 
 
