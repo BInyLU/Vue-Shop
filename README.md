@@ -1,6 +1,7 @@
 # 基于Vue.js和Element-ui的商城后台管理系统
 
 > ## 1.项目运行：
+
 - git clone 到本地
 - cd 到 vue_element_shop_manage目录下运行:
 
@@ -13,7 +14,9 @@ npm install 或者 cnpm install
 npm run serve
 ```
 - 浏览器打开 http://localhost:8080/ 
-> ## 2.项目功能（多图）
+
+> ## 2.项目功能
+
 ### 1.登录&登出&欢迎（默认用户&密码：admin,123456）
 - [x] 登录（token验证）
 - [x] 登出
